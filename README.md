@@ -1,9 +1,5 @@
 # 🧠 My Data Science Journey
 
-<p align="center">
-  <img src="https://via.placeholder.com/1000x250?text=My+Data+Science+Journey" alt="Data Science Journey Banner">
-</p>
-
 Welcome to my **Data Science Learning Repository** 🚀  
 This repository documents my complete journey of learning **Python, Data Analysis, Visualization, SQL, and Machine Learning**, along with hands-on projects and experiments.
 
